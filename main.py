@@ -4,7 +4,6 @@ import os
 import time
 import random
 
-## Redefined Functions
 def read_url(url : str) -> requests.models.Response :
     '''
     Reads a url with browser user agent and returns the response object.
