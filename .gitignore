@@ -1,0 +1,3 @@
+*.ipynb
+/myvenv
+/ipynb_checkpoints
